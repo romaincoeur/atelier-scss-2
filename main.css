@@ -7,8 +7,20 @@ font-family: europa;
 font-weight: 400;
 }
 
-header, .contenu, footer, .image, .element {
+header, .contenu, footer, .image, .element, .intro {
 box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
+}
+
+.cr {
+clear: right;
+}
+
+.cl {
+clear: left;
+}
+
+.cb {
+clear: both;
 }
 
 h2 {
@@ -39,9 +51,22 @@ top: 40%;
 box-shadow: 0 1px 10px rgba(0, 0, 0, 0.26);
 }
 
-.intro .image {
-	background-image: url("quatre.png");
+.intro {
+width: 75%;
+margin: 20px auto;
 }
+
+.intro .image {
+background-image: url("quatre.png");
+float: left;
+height: 300px;
+width: 300px;
+}
+
+.intro .info {
+float: right;
+}
+
 /* FOOTER */
 
 footer {
