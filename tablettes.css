@@ -1,0 +1,25 @@
+.image {
+height: 150px;
+width: 150px;
+}
+
+.info {
+padding: 10px;
+}
+
+.fl {
+float: left;
+margin-right : 10px;
+}
+
+.fr {
+float: right;
+margin-left : 10px;
+}
+
+div, h1, h2, p {
+padding: 20px;
+}
+
+
+

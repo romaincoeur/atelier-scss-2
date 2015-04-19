@@ -1,0 +1,67 @@
+div, h1, h2, p {
+padding: 20px;
+}
+
+.contenu {
+width: 850px;
+margin: 0 auto;
+box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
+}
+
+.element {
+display: flex;
+flex-wrap: nowrap;
+}
+
+.image, .info {
+width: 50%;
+}
+
+.info {
+padding: 10px;
+}
+
+.fl {
+float: left;
+}
+
+.fr {
+float: right;
+}
+
+.image.un {
+order: 2;
+}
+
+.info.un {
+order: 1;
+}
+
+.image.deux, .image.quatre {
+}
+
+.image.trois {
+order: 2;
+}
+
+.info.trois {
+order: 1;
+}
+
+
+.image {
+width: 40%;
+height: 250px;
+}
+
+.info {
+width: 60%;
+}
+
+h2 {
+font-size: 2em;
+}
+
+h2, p {
+padding-top: 20px;
+}
