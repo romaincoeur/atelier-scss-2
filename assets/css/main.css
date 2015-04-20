@@ -36,9 +36,8 @@ font-size: 1.5em;
 }
 
 header {
-background-image: url("planche-style-1.jpg");
+background-image: url("/../../assets/img/zendaya/banner.jpg");
 background-repeat: no-repeat;
-background-position: center;
 background-size: cover;
 height: 400px;
 }
@@ -63,7 +62,7 @@ margin: 20px auto;
 }
 
 .intro .portrait {
-background-image: url("quatre.png");
+background-image: url("/../../assets/img/zendaya/portrait.jpg");
 float: left;
 height: 300px;
 width: 200px;
@@ -142,19 +141,19 @@ border-top: 1px solid black;
 }
 
 .image.un {
-background-image: url("un.png");
+background-image: url("/../../assets/img/zendaya/un.jpg");
 }
 
 .image.deux {
-background-image: url("deux.png");
+background-image: url("/../../assets/img/zendaya/deux.jpg");
 }
 
 .image.trois {
-background-image: url("trois.png");
+background-image: url("/../../assets/img/zendaya/trois.jpg");
 }
 
 .image.quatre {
-background-image: url("quatre.png");
+background-image: url("/../../assets/img/zendaya/quatre.jpg");
 }
 
 /* FIN CONTENT */
