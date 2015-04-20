@@ -13,14 +13,20 @@ box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
 
 .cr {
 clear: right;
+margin: 0 !important;
+padding: 0 !important;
 }
 
 .cl {
 clear: left;
+margin: 0 !important;
+padding: 0 !important;
 }
 
 .cb {
 clear: both;
+margin: 0 !important;
+padding: 0 !important;
 }
 
 h2 {
@@ -56,15 +62,18 @@ width: 75%;
 margin: 20px auto;
 }
 
-.intro .image {
+.intro .portrait {
 background-image: url("quatre.png");
 float: left;
 height: 300px;
-width: 300px;
+width: 200px;
+background-position: center;
+background-size: cover;
+margin-right: 20px;
+border: 1px solid black;
 }
 
-.intro .info {
-float: right;
+.intro .presentation {
 }
 
 /* FOOTER */
