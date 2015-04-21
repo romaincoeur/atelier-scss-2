@@ -4,9 +4,23 @@ padding: 20px;
 
 .contenu {
 width: 850px;
-margin: 0 auto;
+margin: 0 auto 20px;
 box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
 }
+
+.intro {
+display: flex;
+flex-wrap: nowrap;
+}
+
+.portrait {
+width: 30%;
+}
+
+.presentation {
+width: 70%;
+}
+
 
 .element {
 display: flex;
@@ -18,7 +32,8 @@ width: 50%;
 }
 
 .info {
-padding: 10px;
+padding: 0 10px 10px;
+margin: 0 10px;
 }
 
 .fl {
@@ -60,6 +75,7 @@ width: 60%;
 
 h2 {
 font-size: 2em;
+padding: 10px !important;
 }
 
 h2, p {
