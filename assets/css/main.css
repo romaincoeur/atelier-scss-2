@@ -31,6 +31,7 @@ padding: 0 !important;
 
 p {
 letter-spacing: 0.8px;
+word-spacing: -0.1em;
 font-size: 1.1em;
 line-height: 1.3em;
 background-color: rgba(0,0,0,.1);
@@ -70,7 +71,7 @@ width: 75%;
 margin: 20px auto;
 }
 
-.intro .portrait {
+.portrait {
 background-image: url("/../../assets/img/zendaya/portrait.jpg");
 float: left;
 height: 300px;
@@ -79,9 +80,6 @@ background-position: center;
 background-size: cover;
 margin-right: 20px;
 border: 1px solid black;
-}
-
-.intro .presentation {
 }
 
 /* FOOTER */
