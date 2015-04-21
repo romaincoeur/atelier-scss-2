@@ -7,7 +7,7 @@ font-family: europa;
 font-weight: 400;
 }
 
-header, .contenu, footer, .image, .element, .intro {
+header, .contenu, footer, .image, .element, .intro, p {
 box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
 }
 
@@ -29,6 +29,10 @@ margin: 0 !important;
 padding: 0 !important;
 }
 
+em {
+font-style: italic;
+}
+
 p {
 letter-spacing: 0.8px;
 word-spacing: -0.1em;
@@ -36,6 +40,20 @@ font-size: 1.1em;
 line-height: 1.3em;
 background-color: rgba(0,0,0,.1);
 text-align: justify;
+}
+
+a {
+color: black;
+text-decoration: none;
+font-weight: 600;
+}
+
+a: visited {
+color: black;
+}
+
+a:hover {
+text-decoration: underline;
 }
 
 h2 {
