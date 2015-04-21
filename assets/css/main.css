@@ -29,6 +29,14 @@ margin: 0 !important;
 padding: 0 !important;
 }
 
+p {
+letter-spacing: 0.8px;
+font-size: 1.1em;
+line-height: 1.3em;
+background-color: rgba(0,0,0,.1);
+text-align: justify;
+}
+
 h2 {
 font-weight: 700;
 font-family: "fira-sans-2";
@@ -39,6 +47,7 @@ header {
 background-image: url("/../../assets/img/zendaya/banner.jpg");
 background-repeat: no-repeat;
 background-size: cover;
+background-position: center;
 height: 400px;
 }
 
