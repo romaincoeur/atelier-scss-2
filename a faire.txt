@@ -1,4 +1,4 @@
-_créer liens+style dans éléments
 _créer bonne navigation
 _styler et faire marcher newsletter
-_styler partie renseignement éléments
+_le contenu est étouffé !!!
+_mettre en place 100vh sur tous les devices

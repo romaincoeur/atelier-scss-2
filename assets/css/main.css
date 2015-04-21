@@ -125,6 +125,7 @@ display: block;
 width: 30px;
 font-family: "fira-sans-2";
 padding: 20px 20%;
+transition: 0.3s linear;
 }
 
 nav a:visited {
