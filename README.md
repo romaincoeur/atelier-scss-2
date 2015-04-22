@@ -1,8 +1,6 @@
 # Étape 2 - Travail à réaliser
 
-Bonjour !
-Voici le site que j'ai réalisé pour la 4ème étape des travaux à réaliser.
-C'est le travail qui a monopolisé l'extrême majorité de mon temps.
+Bonjour ! Voici le site que j'ai réalisé pour la 4ème étape des travaux à réaliser. C'est le travail qui a monopolisé l'extrême majorité de mon temps.
 
 ## Apprentissage du CSS et de l'HTML
 
@@ -28,7 +26,11 @@ La footer est moche. Je ne sais pas du tout comment la styler.
 
 Les titres des éléments (*h2*) sont déséquilibrés, tout comme certains paragraphes à certaines tailles d'écrans. J'ai essayé d'utiliser text-align: justify, mais ça créait des lignes très bizarres parfois.
 
-Il faudrait un élément qui informe l'utilisateur du but du site s'il arrive dessus par hasard. C'est la fonction du sous-titre "1 STYLE = 4 REFERENCES ARTY", mais il n'est pas assez explicite.
+Il faudrait un élément qui informe l'utilisateur du but du site s'il arrive dessus par hasard. C'est la fonction du sous-titre "1 STYLE = 4 REFERENCES ARTY", mais il n'est probablement pas assez explicite.
 
+Il faut aussi que je crée un logo pour utiliser en .ico du site.
 
+### Notes
+
+Le code n'est pas indenté correctement parce que je me suis forcé à coder dans le bloc note de windows pour tout écrire sans avoir de raccourcis et bien apprendre la syntax.
 
