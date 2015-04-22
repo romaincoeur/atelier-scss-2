@@ -20,7 +20,7 @@ Outre l'absence de contenu, l'absence de menu en haut de la page est peut-être 
 
 Je ne me suis pas encore penché sur les "vendor prefixes" et mon site n'est surement pas optimisé pour certains navigateurs (notament pour la propriété *transition*).
 
-Les images ne sont pas responsives ! Je n'ai pas encore eu le temps de créer des images particulères pour certains appareils. Le site n'est en fait absolument pas optimisé niveau performance. C'est quelque chose dont j'ai pris conscience en cours de route, qui sera dans mon esprit à chaque instant dans l'élaboration de la nouvelle version.
+Les images ne sont pas responsives ! Je n'ai pas encore eu le temps de créer des images particulères pour certains appareils. Le site n'est en fait absolument pas optimisé niveau performance. C'est quelque chose dont j'ai pris conscience en cours de route, qui sera dans mon esprit à chaque instant dans l'élaboration de la nouvelle version. Il faut aussi créer une image de header spécifique pour les smartphones (puisqu'elle est affichée avec 100vh sur ces appareils, dont dans un format portrait).
 
 La footer est moche. Je ne sais pas du tout comment la styler.
 
