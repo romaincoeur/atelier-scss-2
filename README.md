@@ -16,7 +16,7 @@ Le site ne présente qu'une page et le form newsletter ne marche pas. Je n'ai ab
 
 ## Les problèmes du site
 
-Outre l'absence de contenu, l'absence de menu en haut de la page est peut-être un problème. J'ai fait le choix de placer la navigation dans la footer, pour que l'utilisateur y ai accès une fois avoir visionné le contenu, mais ça peut causer de la confusion chez certains utilisateurs.
+<strike>Outre l'absence de contenu, l'absence de menu en haut de la page est peut-être un problème. J'ai fait le choix de placer la navigation dans la footer, pour que l'utilisateur y ai accès une fois avoir visionné le contenu, mais ça peut causer de la confusion chez certains utilisateurs.</strike> *J'ai rajouté un menu car les retours que j'ai eu déploraient son absence.*
 
 Je ne me suis pas encore penché sur les "vendor prefixes" et mon site n'est surement pas optimisé pour certains navigateurs (notament pour la propriété *transition*).
 
