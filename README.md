@@ -30,6 +30,8 @@ Il faudrait un élément qui informe l'utilisateur du but du site s'il arrive de
 
 Il faut aussi que je crée un logo pour utiliser en .ico du site.
 
+Le css est particulièrement mal organisé. Pour mon prochain projet j'utiliserais probablement [ces guidelines](http://mdo.github.io/code-guide/) parce qu'actuellement il est trop dur de trouver un élément particulier dans le css sans utiliser ctrl+f, et une collaboration sur un tel code serait particulièrement malaisée.
+
 ### Notes
 
 Le code n'est pas indenté correctement parce que je me suis forcé à coder dans le bloc note de windows pour tout écrire sans avoir de raccourcis et bien apprendre la syntax.
