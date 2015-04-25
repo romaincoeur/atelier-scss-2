@@ -45,6 +45,10 @@ color: white;
 .topnav a:hover {
 }
 
+.hidebr {
+display: none;
+}
+
 input {
 border: 0;
 padding: 15px;
