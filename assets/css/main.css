@@ -29,6 +29,37 @@ margin: 0 !important;
 padding: 0 !important;
 }
 
+.topnav {
+text-align: center;
+font-size: 1.5em;
+background-color: black;
+text-transform: uppercase;
+}
+
+.topnav a {
+padding: 15px;
+color: white;
+
+}
+
+.topnav a:hover {
+}
+
+.hidebr {
+display: none;
+}
+
+input {
+border: 0;
+padding: 15px;
+font-size: 18px;
+}
+
+input[type="submit"] {
+background: grey;
+color: white;
+}
+
 em {
 font-style: italic;
 }
