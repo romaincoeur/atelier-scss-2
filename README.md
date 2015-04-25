@@ -1,10 +1,10 @@
-# Étape 4 - Travail à réaliser
+# Étape 2 - Travail à réaliser
 
 Bonjour ! Voici le site que j'ai réalisé pour la 4ème étape des travaux à réaliser. C'est le travail qui a monopolisé la majorité de mon temps.
 
 ## Apprentissage du CSS et de l'HTML
 
-Lorsque j'ai reçu le mail indiquant les exercices à rendre, j'ai décidé de me concentrer sur le quatrième. En effet, il était dans la lignée de ce que j'étais en train d'étudier puisque j’'avais commencé à apprendre le webdesign sur [ce site](http://www.steaw-webdesign.com/css/). J'ai donc parcouru ce tutoriel plusieurs fois et me suis attelé à la réalisation du site lartystyle, commandé par une amie.  Elle travaille en tant que chargé de communication digitale à Coca-Cola France et voulait développer un site internet mêlant art, mode et lifestyle. J’ai donc voulu prendre par à cette aventure qui me semble intéressante et qui lui tient à coeur. 
+Lorsque j'ai reçu le mail indiquant les exercices à rendre, j'ai décidé de me concentrer sur le quatrième. En effet, il était dans la lignée de ce que j'étais en train d'étudier puisque j’'avais commencé à apprendre le webdesign sur [ce site](http://www.steaw-webdesign.com/css/). J'ai donc parcouru ce tutoriel plusieurs fois et me suis attelé à la réalisation du site lartystyle, commandé par une amie.  Elle travaille en tant que chargée de communication digitale à Coca-Cola France et voulait développer un site internet mêlant art, mode et lifestyle. J’ai donc voulu prendre par à cette aventure qui me semble intéressante et qui lui tient à coeur. 
 
 ## Le site
 
