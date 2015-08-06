@@ -1,82 +1,82 @@
 div, h1, h2, p {
-padding: 20px;
+    padding: 20px;
 }
 
 .contenu {
-width: 850px;
-margin: 0 auto 20px;
-box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
+    width: 850px;
+    margin: 0 auto 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.26);
 }
 
 .intro {
-display: flex;
-flex-wrap: nowrap;
+    display: flex;
+    flex-wrap: nowrap;
 }
 
 .portrait {
-width: 30%;
+    width: 30%;
 }
 
 .presentation {
-width: 70%;
+    width: 70%;
 }
 
 .element {
-display: flex;
-flex-wrap: nowrap;
+    display: flex;
+    flex-wrap: nowrap;
 }
 
 .image, .info {
-width: 50%;
+    width: 50%;
 }
 
 .info {
-padding: 0 10px 10px;
-margin: 0 10px;
+    padding: 0 10px 10px;
+    margin: 0 10px;
 }
 
 .fl {
-float: left;
+    float: left;
 }
 
 .fr {
-float: right;
+    float: right;
 }
 
 .image.un {
-order: 2;
+    order: 2;
 }
 
 .info.un {
-order: 1;
+    order: 1;
 }
 
 .image.deux, .image.quatre {
 }
 
 .image.trois {
-order: 2;
+    order: 2;
 }
 
 .info.trois {
-order: 1;
+    order: 1;
 }
 
 
 .image {
-width: 40%;
-height: 250px;
+    width: 40%;
+    height: 250px;
 }
 
 .info {
-width: 60%;
+    width: 60%;
 }
 
 h2 {
-font-size: 2em;
-padding: 10px !important;
+    font-size: 2em;
+    padding: 10px !important;
 }
 
 h2, p {
-padding-top: 20px;
+    padding-top: 20px;
 }
